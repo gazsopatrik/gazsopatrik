@@ -10,7 +10,6 @@ I have experience with multiple languages and technologies, and I am passionate 
 - 🌱 I’m learning and improving my skills in **full-stack development**
 - 👯 I’m open to collaborating on interesting projects
 - 💬 Ask me about **JavaScript, C#, C++, SQL, and web development**
-- 📫 How to reach me: [Email / LinkedIn / Twitter]
 
 ---
 
