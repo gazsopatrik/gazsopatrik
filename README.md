@@ -93,7 +93,7 @@ My main areas of interest include:
 
 ## 🧠 Current Focus
 
-```text
+
 [+] Offensive Security
 [+] Red Team Methodology
 [+] Penetration Testing
@@ -101,7 +101,7 @@ My main areas of interest include:
 [+] Network Enumeration
 [+] Vulnerability Assessment
 [+] Python Automation
-```
+
 
 ---
 
