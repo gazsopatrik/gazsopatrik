@@ -105,19 +105,6 @@ My main areas of interest include:
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![Patrik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gazsopatrik\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gazsopatrik\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gazsopatrik\&theme=tokyonight\&hide_border=true)
-
-</div>
-
----
 
 ## 🎯 Long-Term Goals
 
